@@ -1,0 +1,1 @@
+One window with navbar and menu button. When you click on the menu or swipe on the left, the menu leaves on top of the main window. When you select one of the items, the menu closes and the number of the selected item appears on the main screen. The menu can also be closed by clicking on an empty area or swipe right. The menu should be executed as a separate controller.
